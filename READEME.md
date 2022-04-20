@@ -1,6 +1,6 @@
 #BABÁ DE CÃO AGORA
 
-Um projeto simples de uma landing page para cuidadores de cães. projeto é ficticio então ele não está em serviço.
+Um projeto simples de uma landing page para cuidadores de cães. projeto é fictício então ele não está em serviço.
 
 O layout será hopedado logo...
 
