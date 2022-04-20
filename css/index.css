@@ -24,7 +24,7 @@ nav
 }
 nav img
 {
-	margin-right: 14em;
+	margin-right: 4em;
 }
 nav a
 {
@@ -46,7 +46,55 @@ nav ul#link_list
 }
 
 /* DESTINO */
-
+section#destino
+{
+	padding: 70px 0;
+}
+section#destino div#destino_esquerdo
+{
+	padding: 0 80px;
+}
+section#destino img.cachorro
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+section#destino h1
+{
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 48px;
+}
+section#destino p
+{
+	width: 62%;
+	margin-top: 30px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+}
+section#destino a
+{
+	display: inline-block;
+	margin-top: 180px;
+	padding: 22px 25px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	background-color: var(--azul-1);
+	color: var(--branco);
+	text-decoration: none;
+	border-radius: 34px;
+}
+section#destino a:hover
+{
+	opacity: 0.86;
+}
+section#destino a span
+{
+	margin-right: 1em;
+}
 
 
 /* QUEM SOMOS */
