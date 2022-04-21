@@ -253,4 +253,110 @@ footer a:hover
 	{
 		margin-right: 1em;
 	}
+
+
+	/* DESTINO */
+
+	section#destino img.cachorro
+	{
+		width: 270px;
+		height: 270px;
+	}
+	section#destino a
+	{
+		margin-top: 30px;
+		padding: 17px 20px;
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+
+
+	/* SERVIÇOS */
+
+	section#servicos img
+	{
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	section#servicos h2
+	{
+		margin-top: 50px;
+	}
+
+
+	/* FOOTER */
+	footer p#email_footer
+	{
+		width: 50%;
+	}
+}
+
+/* TELA PEQUENA */
+
+@media only screen and (max-width: 576px)
+{
+	.row
+	{
+		width: 100%;
+		margin: 0;
+	}
+	
+	
+	/* DESTINO */
+
+	section#destino a
+	{
+		padding: 13px 16px;
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+	section#destino a span svg
+	{
+		width: 10px;
+		height: 10px;
+	}
+
+
+	/* QUEM SOMOS */
+	section#quem_somos
+	{
+		height: 350px;
+	}
+
+
+	/* SERVIÇOS */
+
+	section#servicos
+	{
+		margin-top: 60px;
+	}
+
+	
+	/* CUIDADORES */
+
+	section#cuidadores h3
+	{
+		margin-top: 10px;
+		margin-bottom: 40px;
+	}
+
+
+	/* FOOTER */
+
+	footer p#email_footer
+	{
+		width: 100%;
+	}
+	footer h2
+	{
+		line-height: 70px;
+	}
+	footer p
+	{
+		line-height: 12px;
+	}
+	footer h5
+	{	
+		margin-top: 60px;
+	}
 }
