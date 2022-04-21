@@ -160,7 +160,34 @@ section#servicos p
 
 /* CUIDADORES */
 
-
+section#cuidadores
+{
+	margin-top: 120px;
+}
+section#cuidadores h2
+{
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 39px;
+	text-align: center;
+	margin-bottom: 70px;
+}
+section#cuidadores img
+{
+	display: block;
+	border-radius: 12px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 3px solid rgba(154, 104, 82, 0.6);;
+}
+section#cuidadores h3
+{
+	margin-top: 32px;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: center;
+}
 
 /* RODAPÉ */
 
