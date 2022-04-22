@@ -2,7 +2,7 @@
 
 Um projeto simples de uma landing page para cuidadores de cães. projeto é fictício então ele não está em serviço.
 
-O layout será hopedado logo...
+O layout está hopedado em <https://babadecaoagora.pages.dev/>
 
 Esse projeto servirá para minha lista de projetos que estou montanto com o intuito de alavancar minha carreira em TI.
 
