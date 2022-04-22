@@ -14,6 +14,11 @@
 	--azul-2: #0F4483;
 	--marrom: #9A6852;
 }
+.row
+{
+	width: 100%;
+	margin: 0;
+}
 
 
 /* MENU PARA NAVEGAR */
@@ -295,11 +300,6 @@ footer a:hover
 
 @media only screen and (max-width: 576px)
 {
-	.row
-	{
-		width: 100%;
-		margin: 0;
-	}
 	
 	
 	/* DESTINO */
